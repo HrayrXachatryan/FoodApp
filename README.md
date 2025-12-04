@@ -1,4 +1,4 @@
-# FoodApp \ud83c\udf7d\ufe0f
+# FoodApp 
 
 FoodApp is a modern Android application built with Jetpack Compose that lets users explore dishes, manage favourites, and place orders with seamless Firebase Authentication (email/password and Google Sign-In).
 
